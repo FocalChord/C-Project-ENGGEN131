@@ -1,6 +1,6 @@
 /* ENGGEN131, Semester Two, 2017 */
 
-/* PROJECT SOLUTION BY:  << Nisarag Bhatt and 945034068 >> */
+/* PROJECT SOLUTION BY:  << Focal Chord >>
 
 #include "project.h"
 
